@@ -1,3 +1,5 @@
 ﻿{
-  "redirects": []
+  "redirects": [
+    { "source": "/behandelingen/aanbieding-verwijderen", "destination": "/behandelingen", "permanent": true }
+  ]
 }
