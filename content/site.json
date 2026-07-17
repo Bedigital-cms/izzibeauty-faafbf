@@ -46,7 +46,8 @@
             "url": "/behandelingen",
             "links": [
               { "label": "Micro Haar Pigmentatie", "url": "/behandelingen/micro-haar-pigmentatie" },
-              { "label": "PMU / Tattoo verwijderen", "url": "/behandelingen/pmu-verwijderen" }
+              { "label": "PMU / Tattoo verwijderen", "url": "/behandelingen/pmu-verwijderen" },
+              { "label": "Aanbieding verwijderen", "url": "/behandelingen/aanbieding-verwijderen", "tag": "Actie" }
             ]
           }
         ]

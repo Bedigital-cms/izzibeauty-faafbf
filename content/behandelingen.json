@@ -45,7 +45,8 @@
         { "title": "Kleurcorrectie PMU", "text": "Corrigeer een verkleurde of verkeerde pigmentkleur van eerdere PMU.", "image": "", "url": "/behandelingen/kleurcorrectie", "linkLabel": "Meer info" },
         { "title": "Cover oude PMU", "text": "Verwerk oude permanente make-up in een fris, natuurlijk nieuw resultaat.", "image": "", "url": "/behandelingen/cover-oude-pmu", "linkLabel": "Meer info" },
         { "title": "Micro Haar Pigmentatie", "text": "Creëer de illusie van een vollere haardos of haarlijn.", "image": "", "url": "/behandelingen/micro-haar-pigmentatie", "linkLabel": "Meer info" },
-        { "title": "PMU / Tattoo verwijderen", "text": "Veilig laten verwijderen van ongewenste PMU of tattoo.", "image": "", "url": "/behandelingen/pmu-verwijderen", "linkLabel": "Meer info" }
+        { "title": "PMU / Tattoo verwijderen", "text": "Veilig laten verwijderen van ongewenste PMU of tattoo.", "image": "", "url": "/behandelingen/pmu-verwijderen", "linkLabel": "Meer info" },
+        { "title": "Aanbieding verwijderen", "text": "Tijdelijke actie: voordelig introductietarief op het verwijderen van PMU of tattoo.", "image": "", "url": "/behandelingen/aanbieding-verwijderen", "linkLabel": "Bekijk actie" }
       ]
     }
   ],
