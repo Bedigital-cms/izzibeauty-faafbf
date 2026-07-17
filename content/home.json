@@ -9,12 +9,21 @@
     "primaryUrl": "/contact",
     "secondaryLabel": "Bekijk behandelingen",
     "secondaryUrl": "/behandelingen",
-    "image": "",
+    "image": "/media/Afspraak-maken-bij-IZZI-Beauty-PMU-Salon-Amsterdam.webp",
     "videoUrl": "",
     "meta": [
-      { "num": "7.000+", "lbl": "Behandelingen" },
-      { "num": "350+", "lbl": "5-sterren reviews" },
-      { "num": "2", "lbl": "Locaties" }
+      {
+        "num": "7.000+",
+        "lbl": "Behandelingen"
+      },
+      {
+        "num": "350+",
+        "lbl": "5-sterren reviews"
+      },
+      {
+        "num": "2",
+        "lbl": "Locaties"
+      }
     ]
   },
   "reviewStrip": {
@@ -32,7 +41,7 @@
       "Natuurlijk resultaat, afgestemd op jouw gezicht",
       "Twee moderne salons: Amsterdam & Den Bosch"
     ],
-    "image": "",
+    "image": "/media/All-Round-PMU-opleiding-Amsterdam-en-Rotterdam.webp",
     "badgeNum": "12+",
     "badgeLabel": "Jaar ervaring",
     "buttonLabel": "Maak kennis met IZZI",
@@ -49,21 +58,21 @@
         "title": "Ombré Powder Brows",
         "meta": "vanaf €395 · 2,5 uur",
         "text": "Zachte, poederige wenkbrauwen met een make-up look die dagenlang perfect blijft zitten.",
-        "image": "",
+        "image": "/media/Ombre-Powder-Brows.webp",
         "url": "/behandelingen/powder-brows"
       },
       {
         "title": "Lip Blush",
         "meta": "vanaf €395 · 2,5 uur",
         "text": "Een natuurlijke lipkleur die je lippen voller en frisser laat lijken — hét alternatief voor lipfillers.",
-        "image": "",
+        "image": "/media/Permanente-Eyeliner.jpeg",
         "url": "/behandelingen/lip-blush"
       },
       {
         "title": "Infralash Eyeliner",
         "meta": "vanaf €295 · 2 uur",
         "text": "Een subtiele definitie tussen de wimpers voor een wakkere, open blik — ochtend na ochtend.",
-        "image": "",
+        "image": "/media/Ombre-Powder-Brows-Masterclass.webp",
         "url": "/behandelingen/permanente-eyeliner"
       }
     ]
@@ -79,21 +88,21 @@
         "title": "All Round PMU Opleiding",
         "meta": "Beginnersopleiding",
         "text": "De complete opleiding waarin je alle IZZI-technieken leert: brows, lippen én eyeliner.",
-        "image": "",
+        "image": "/media/Ombre-Powder-Brows-Masterclass-1.webp",
         "url": "/opleidingen/allround-pmu"
       },
       {
         "title": "Ombré Powder Brows",
         "meta": "Beginnersopleiding",
         "text": "Word specialist in onze meest gevraagde behandeling met een intensieve hands-on training.",
-        "image": "",
+        "image": "/media/Lip-Blush-Pigmentatie.webp",
         "url": "/opleidingen/ombre-powder-brows"
       },
       {
         "title": "Lip Blush Opleiding",
         "meta": "Beginnersopleiding",
         "text": "Leer de kunst van natuurlijke lippigmentatie van A tot Z, inclusief kleurtheorie.",
-        "image": "",
+        "image": "/media/All-Round-PMU-opleiding-Amsterdam-en-Rotterdam-1.webp",
         "url": "/opleidingen/lip-blush"
       }
     ]
@@ -103,17 +112,45 @@
     "title": "Vakmanschap waar je op kunt vertrouwen",
     "text": "Duizenden klanten kozen IZZI Beauty. Dit is waarom.",
     "items": [
-      { "icon": "award", "title": "Gediplomeerde specialisten", "text": "Ons team is volledig opgeleid en GGD-erkend voor permanente make-up." },
-      { "icon": "shield", "title": "Veilige pigmenten", "text": "We werken uitsluitend met REACH-conforme, dermatologisch geteste pigmenten." },
-      { "icon": "hands", "title": "7.000+ behandelingen", "text": "Jarenlange ervaring en duizenden tevreden klanten door heel Nederland." },
-      { "icon": "star", "title": "5,0 gemiddelde review", "text": "Ruim 350 vijfsterrenbeoordelingen op Google en Trustpilot." }
+      {
+        "icon": "award",
+        "title": "Gediplomeerde specialisten",
+        "text": "Ons team is volledig opgeleid en GGD-erkend voor permanente make-up."
+      },
+      {
+        "icon": "shield",
+        "title": "Veilige pigmenten",
+        "text": "We werken uitsluitend met REACH-conforme, dermatologisch geteste pigmenten."
+      },
+      {
+        "icon": "hands",
+        "title": "7.000+ behandelingen",
+        "text": "Jarenlange ervaring en duizenden tevreden klanten door heel Nederland."
+      },
+      {
+        "icon": "star",
+        "title": "5,0 gemiddelde review",
+        "text": "Ruim 350 vijfsterrenbeoordelingen op Google en Trustpilot."
+      }
     ]
   },
   "stats": [
-    { "num": "7.000+", "lbl": "Behandelingen" },
-    { "num": "350+", "lbl": "5-sterren reviews" },
-    { "num": "12+", "lbl": "Jaar ervaring" },
-    { "num": "100%", "lbl": "Natuurlijk resultaat" }
+    {
+      "num": "7.000+",
+      "lbl": "Behandelingen"
+    },
+    {
+      "num": "350+",
+      "lbl": "5-sterren reviews"
+    },
+    {
+      "num": "12+",
+      "lbl": "Jaar ervaring"
+    },
+    {
+      "num": "100%",
+      "lbl": "Natuurlijk resultaat"
+    }
   ],
   "reviewsSection": {
     "eyebrow": "PMU ervaringen",
